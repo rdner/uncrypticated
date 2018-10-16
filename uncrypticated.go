@@ -1,4 +1,4 @@
-package crypto
+package uncrypticated
 
 import (
 	"crypto/aes"
