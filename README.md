@@ -57,4 +57,4 @@ var (
 
 MIT License
 
-Denis Rechkunov <mail@pragmader.me>
+Denis Rechkunov denis@rdner.de
